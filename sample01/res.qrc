@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>good/genshen.jpg</file>
+        <file>good/head_pix.jpg</file>
+        <file>good/huihui_01.jpg</file>
+        <file>good/huihui_02.jpg</file>
+        <file>good/huihui_kid.jpg</file>
+        <file>good/logo.jpeg</file>
+        <file>good/miao.jpg</file>
+        <file>good/name.jpg</file>
+        <file>good/name_dusk.jpg</file>
+        <file>good/name_night.jpg</file>
+        <file>good/night.jpg</file>
+        <file>good/sky.jpg</file>
+    </qresource>
+</RCC>
